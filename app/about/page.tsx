@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+import SectionTitle from "@/components/global/SectionTitle";
+import db from "@/utils/db";
+
+>>>>>>> db658a637e9dc1f2b80ee933c1a508e52f97b7d0
 function AboutPage() {
   return (
     <section>
