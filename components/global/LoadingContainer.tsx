@@ -1,9 +1,5 @@
 import { Card, CardContent } from "../ui/card";
 import { Skeleton } from "../ui/skeleton";
-<<<<<<< HEAD
-=======
-import SectionTitle from "./SectionTitle";
->>>>>>> db658a637e9dc1f2b80ee933c1a508e52f97b7d0
 
 function LoadingContainer() {
   return (
